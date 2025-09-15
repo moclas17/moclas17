@@ -61,24 +61,38 @@ const erik = {
 
 <div align="center">
 
-### 🚀 [Proyecto DeFi Portfolio](https://github.com/moclas17/defi-portfolio)
-**Una aplicación de seguimiento de portfolio para DeFi**
+### 🚀 [chingadrop.xyz](https://github.com/moclas17/simplelinkairdrop)
+**Plataforma simple y eficiente para airdrops**
 <br>
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3.js&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ---
 
-### 📱 [Task Manager Pro](https://github.com/moclas17/task-manager-pro)
-**Gestor de tareas avanzado con colaboración en tiempo real**
+### 🔄 [Wallet Migrator](https://github.com/moclas17/wallet-migrator)
+**Herramienta para migración segura de wallets crypto**
 <br>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3.js&logoColor=white)
 
 ---
 
-### 🤖 [AI Content Generator](https://github.com/moclas17/ai-content-generator)
-**Generador de contenido impulsado por IA**
+### 🔐 [Private NYMRPC](https://github.com/moclas17/private-NYMRPC)
+**RPC privado y seguro para transacciones anónimas**
 <br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Privacy](https://img.shields.io/badge/-Privacy-FF6B6B?style=flat&logo=shield&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
+
+---
+
+### 📄 [zkResume](https://github.com/moclas17/zkResume)
+**CV verificable con zero-knowledge proofs**
+<br>
+![ZK](https://img.shields.io/badge/-Zero--Knowledge-8B5CF6?style=flat&logo=ethereum&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Cryptography](https://img.shields.io/badge/-Cryptography-00C853?style=flat&logo=lock&logoColor=white)
+
+---
+
+### 🦄 [Swaylings](https://github.com/moclas17/swaylings)
+**Tutorial interactivo para aprender Sway y Fuel**
+<br>
+![Sway](https://img.shields.io/badge/-Sway-00D4AA?style=flat&logo=fuel&logoColor=white) ![Fuel](https://img.shields.io/badge/-Fuel-1A1A1A?style=flat&logo=fuel&logoColor=white) ![Education](https://img.shields.io/badge/-Education-FF9800?style=flat&logo=book&logoColor=white)
 
 </div>
 
